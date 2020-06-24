@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    font-size: 55px;
+    color: lightskyblue;
+    
+    
+}
+
+img {
+    width:140px;
+    height: 140px;
+}
